@@ -1,10 +1,6 @@
 this is the file to edit in vi because to practice in guthub
 second line in sub branch
-<<<<<<< HEAD
 d in sub branch
 fourth line in sub branch
 fifth line in sub branch
 sixth line
-=======
-
->>>>>>> parent of 37a754a... thirdmodefication
